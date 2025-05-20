@@ -11,7 +11,7 @@ Mejorar la experiencia del barbero en un sistema para que sea sencillo de utiliz
 ## Capturas de pantalla
 Inicio 
 |--------|
-| ![Desktop](./Documenta/Principal.png) |
+| ![Desktop](./BarberShopDesktop/Inicio.png) |
 
 ## Enlaces
 - *Prototipo en Figma*: [Ver aquí](https://www.figma.com/design/XGqQO5LGD9a8xsIqkeM5us/DocumentA?node-id=0-1&t=BPHaZvmQADwq3NqW-1)
