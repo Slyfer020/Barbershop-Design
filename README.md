@@ -13,9 +13,6 @@ Inicio
 |--------|
 | ![Desktop](./BaberShopDesktop/Inicio.png) |
 
-## Enlaces
-- *Prototipo en Figma*: [Ver aquí](https://www.figma.com/design/XGqQO5LGD9a8xsIqkeM5us/DocumentA?node-id=0-1&t=BPHaZvmQADwq3NqW-1)
-
 ## Mi rol
 Se diseñó las interfaces con base a las necesidades de barbero para agilizar la gestión de citas, ademas de que se puede visualizar los servicios que ofrece puede anunciar sus productos en venta.
 
